@@ -25,7 +25,7 @@
                 height="720"
                 scalable="true"
                 maintainAspectRatio="true">
-                <![CDATA[https://cdn.jsdelivr.net/gh/germanjh/player@main/video_movil.mp4]]>
+                <![CDATA[https://cdn.jsdelivr.net/gh/germanjh/player@main/video_movil_web.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
